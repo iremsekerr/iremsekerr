@@ -1,5 +1,19 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+</div>
+
 ### Hi there I'm İrem 👋
 I have a forward-looking, wide-ranging goal in the name of this profession and in order to achieve this goal, I aim to be a successful engineer in my profession
+
+<div id="badges">
+  <a href="www.linkedin.com/in/irem-şeker-02b4811bb">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://twitter.com/Noluyooylee">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 🌱 I’m currently learning .NET Core, ReactNative, Angular.js
@@ -11,6 +25,7 @@ I have a forward-looking, wide-ranging goal in the name of this profession and i
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iremsekerr&theme=dark&hide_border=YANLI%C5%9E)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremsekerr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
